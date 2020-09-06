@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+build/
+scrapinghub.yml
+wiki_edits.db
+project.egg-info/
+venv/
