@@ -5,3 +5,5 @@ scrapinghub.yml
 wiki_edits.db
 project.egg-info/
 venv/
+wikiedits/__pycache__/
+wikiedits/spiders/__pycache__/
