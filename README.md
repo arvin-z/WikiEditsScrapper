@@ -1,1 +1,2 @@
-A Scrapy project to scrape and analyze acts of vandalism on Wikipedia
+A Scrapy project to scrape and analyze acts of vandalism on Wikipedia 
+**WORK IN PROGRESS**
